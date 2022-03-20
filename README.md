@@ -12,5 +12,5 @@ NOTE: This is just for testing purposes!
 
    /Applications/Zoom_Notification.sh
    
-# Video link (Includes an older version of this script)
+# Demo video link (Includes an older version of this script)
 https://youtu.be/pD9Z_ktL__I
